@@ -1,0 +1,2 @@
+# apache_stacksmith
+vrtk_labs_bitnami_stacksmith_beta_11_16
